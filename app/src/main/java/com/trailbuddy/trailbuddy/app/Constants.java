@@ -5,8 +5,6 @@ public class Constants {
     public static final String LOG_TAG = "TrailBuddyApp";
     public static final String BASE_URL = "https://www.hikingproject.com/data/";
     public static final String HIKING_PROJECT_API_KEY = "200385980-36adbfb2b4bbff070f94513b49d28b32";
-    // public static final String GOOGLE_API_KEY = "AIzaSyBb38X9PXPd9rq_3ury3AUHIKG-9wqmp9A";
-    public static final String GOOGLE_API_KEY = "AIzaSyAs342ykgV_0NFVwHNy9B1xhsd2V0PbS7c";
 
     public static final String TRAILS_LIST_LIMIT = "50";
     public static final String TRAILS_DISTANCE_LIMIT = "50";
