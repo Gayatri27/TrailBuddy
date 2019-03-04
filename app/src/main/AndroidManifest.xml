@@ -60,10 +60,6 @@
         <activity
             android:name=".photos.ui.TrailPhotosActivity"
             android:theme="@style/AppTheme.NoActionBar" />
-
-        <meta-data
-            android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBb38X9PXPd9rq_3ury3AUHIKG-9wqmp9A" />
     </application>
 
 </manifest>
